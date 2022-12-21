@@ -2,7 +2,7 @@
 
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://facebook.com/groups/425851082902207/')
+os.system('xdg-open https://facebook.com/groups/603953247850905/')
 print('\n\033[1;37m install modules...\n It will take some seconds...')
 
 try:
